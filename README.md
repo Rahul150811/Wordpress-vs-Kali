@@ -1,4 +1,5 @@
-# Week 7-8 Project --> Wordpress-vs-Kali
+# Week 7-8 Project 
+--> Wordpress-vs-Kali
 
 1) This week we learned about Wordpress and about its vulnerability. I had problems and error with the setup installation but after I resolved the issues it was fun to learn and exploit the WP vulnerability.
 
